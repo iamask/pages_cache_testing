@@ -4,3 +4,7 @@ https://:project.pages.dev/*
   
 https://:project.pages.dev/*
   Access-Control-Allow-Origin: https://staging.:project.pages.dev
+
+/js/bootstrap.bundle.min.js*
+  Cache-Control: public, max-age=600, must-revalidate
+
